@@ -1,6 +1,6 @@
 # Workflow
 
-MIDB is built on PLSDB (v. 2024_05_31_v2), a database of 72,360 plasmid sequences derived from NCBI. We processed all sequences uniformly, and leave any further curation to the user. The scripts used are available in the [GitHub repository](https://github.com/wtmatlock/midb).
+PIntDB is built on PLSDB (v. 2024_05_31_v2), a database of 72,360 plasmid sequences derived from NCBI. We processed all sequences uniformly, and leave any further curation to the user. The scripts used are available in the [GitHub repository](https://github.com/wtmatlock/pintdb).
 
 ## Integron annotation
 
