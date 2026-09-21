@@ -1,1 +1,1 @@
-### See: [https://mobile-integron-database.readthedocs.io/en/latest/](https://mobile-integron-database.readthedocs.io/en/latest/)
+### See: [https://pintdb.readthedocs.io/en/latest/](https://pintdb.readthedocs.io/en/latest/)
