@@ -1,6 +1,6 @@
 # Tutorial
 
-The MIDB archive contains both the raw tool outputs and aggregated summaries. The contents can be understood as follows:
+The PIntDB archive contains both the raw tool outputs and aggregated summaries. The contents can be understood as follows:
 
 | File | Description |
 | ---- | ----------- |
