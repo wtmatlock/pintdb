@@ -6,7 +6,7 @@ To quickly search for a plasmid accession or gene, [go here](quickstart.md), to 
 
 ## Citation
 
-If you use MIDB, please cite...
+If you use PIntDB, please cite...
 
 ## Versioning
 
