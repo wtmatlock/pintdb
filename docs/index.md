@@ -1,6 +1,6 @@
 # Plasmid-borne integron database
 
-Welcome! The plasmid-borne integron database (PIntDB) is a new, freely available resource of 8,854 complete and 3,576 partial mobile integrons. You can access the complete PIntDB archive at [10.5281/zenodo.19662544](https://doi.org/10.5281/zenodo.19662544).
+Welcome! The plasmid-borne integron database (PIntDB) is a new, freely available resource of 8,854 complete and 3,576 partial mobile integrons. You can access the complete PIntDB archive at [10.5281/zenodo.19662544](https://doi.org/10.5281/zenodo.19885239).
 
 To quickly search for a plasmid accession or gene, [go here](quickstart.md), to learn about the archive contents and how to use them, [go here](tutorial.md), and to find a full description of the bioinformatic methods, [go here](workflow.md).
 
