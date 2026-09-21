@@ -15,5 +15,5 @@ We are currently on <ins>v. 1.0.0</ins>. I expect major updates to coincide with
 | **Version** | **DOI** | **Description**|
 | --- | --- | --- |
 | | | |
-| 1.0.0-alpha.1 | | Changing name to PIntDB |
+| 1.0.0-alpha.1 | [10.5281/zenodo.19662544](https://doi.org/10.5281/zenodo.19885239) | Changed name to PIntDB |
 | 1.0.0-alpha | [10.5281/zenodo.19662544](https://doi.org/10.5281/zenodo.19662544) | Development release - please use v. 1.0.0. |
