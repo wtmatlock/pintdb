@@ -38,7 +38,7 @@ hide:
       <h2>Citation</h2>
       <p>If you use PIntDB in your work, cite the archived release so others can access the same dataset.</p>
     </div>
-    <a class="pint-doi" href="https://doi.org/10.5281/zenodo.19662544">10.5281/zenodo.19662544 <span aria-hidden="true">↗</span></a>
+    <a class="pint-doi" href="https://doi.org/10.5281/zenodo.19662544">10.5281/zenodo.19885239 <span aria-hidden="true">↗</span></a>
   </section>
 </div>
 
