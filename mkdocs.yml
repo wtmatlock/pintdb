@@ -2,6 +2,22 @@ site_name: Plasmid-borne integron database
 
 theme:
   name: material
+  features:
+    - navigation.tabs
+    - navigation.top
+  palette:
+    - scheme: default
+      primary: blue
+      accent: red
+      toggle:
+        icon: material/brightness-4
+        name: Switch to dark mode
+    - scheme: slate
+      primary: blue
+      accent: red
+      toggle:
+        icon: material/brightness-7
+        name: Switch to light mode
 
 nav:
   - Home: index.md
@@ -14,6 +30,7 @@ plugins:
 
 extra_css:
   - https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css
+  - css/extra.css
 
 extra_javascript:
   - https://code.jquery.com/jquery-3.7.1.min.js
