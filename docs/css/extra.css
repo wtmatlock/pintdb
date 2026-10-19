@@ -182,10 +182,10 @@ body {
 }
 
 .md-typeset .pint-title-mark img {
-  width: 0.82em;
-  height: 1em;
-  max-width: 0.82em;
-  max-height: 1em;
+  width: auto;
+  height: 0.72em;
+  max-width: 0.9em;
+  max-height: 0.72em;
   flex: 0 0 auto;
   object-fit: contain;
   vertical-align: middle;
