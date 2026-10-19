@@ -174,23 +174,6 @@ body {
   line-height: 0.99;
 }
 
-.md-typeset .pint-title-mark {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.12em;
-  white-space: nowrap;
-}
-
-.md-typeset .pint-title-mark img {
-  width: auto;
-  height: 0.72em;
-  max-width: 0.9em;
-  max-height: 0.72em;
-  flex: 0 0 auto;
-  object-fit: contain;
-  vertical-align: middle;
-}
-
 .md-typeset .pint-hero h1 em {
   display: inline-block;
   margin-top: 0.18em;
@@ -198,10 +181,6 @@ body {
   font-size: 0.62em;
   font-weight: 500;
   line-height: 1.12;
-}
-
-[data-md-color-scheme="slate"] .md-typeset .pint-title-mark img {
-  filter: brightness(0) invert(0.9);
 }
 
 .md-typeset .pint-lead {
