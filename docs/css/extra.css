@@ -182,10 +182,12 @@ body {
 }
 
 .md-typeset .pint-title-mark img {
-  width: 0.75em;
-  height: 0.85em;
+  width: 0.82em;
+  height: 1em;
+  max-width: 0.82em;
+  max-height: 1em;
+  flex: 0 0 auto;
   object-fit: contain;
-  mix-blend-mode: multiply;
   vertical-align: middle;
 }
 
@@ -199,8 +201,7 @@ body {
 }
 
 [data-md-color-scheme="slate"] .md-typeset .pint-title-mark img {
-  filter: invert(1);
-  mix-blend-mode: screen;
+  filter: brightness(0) invert(0.9);
 }
 
 .md-typeset .pint-lead {
