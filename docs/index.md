@@ -8,7 +8,7 @@ hide:
   <section class="pint-hero">
     <div class="pint-hero-copy">
       <p class="pint-eyebrow">Version 1.0.0</p>
-      <h1>PIntDB<br><em>Plasmid-borne integron database</em></h1>
+      <h1><span class="pint-title-mark"><img src="images/pintdb-mark.svg" alt="">PIntDB</span><br><em>Plasmid-borne integron database</em></h1>
       <p class="pint-lead">Explore a freely available database of mobile integrons and insertion sequences, ready to download.</p>
       <div class="pint-actions">
         <a class="pint-button pint-button-primary" href="quickstart/">Search the database <span aria-hidden="true">↗</span></a>

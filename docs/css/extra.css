@@ -174,9 +174,33 @@ body {
   line-height: 0.99;
 }
 
+.md-typeset .pint-title-mark {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.12em;
+  white-space: nowrap;
+}
+
+.md-typeset .pint-title-mark img {
+  width: 0.75em;
+  height: 0.85em;
+  object-fit: contain;
+  mix-blend-mode: multiply;
+  vertical-align: middle;
+}
+
 .md-typeset .pint-hero h1 em {
+  display: inline-block;
+  margin-top: 0.18em;
   color: var(--pint-accent);
+  font-size: 0.62em;
   font-weight: 500;
+  line-height: 1.12;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .pint-title-mark img {
+  filter: invert(1);
+  mix-blend-mode: screen;
 }
 
 .md-typeset .pint-lead {
