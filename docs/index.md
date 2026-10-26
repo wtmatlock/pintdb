@@ -12,7 +12,7 @@ hide:
       <p class="pint-lead">Browse plasmid-associated integrons and insertion sequences, or download the complete dataset.</p>
       <div class="pint-actions">
         <a class="pint-button pint-button-primary" href="quickstart/">Search the database</a>
-        <a class="pint-button pint-button-secondary" href="https://doi.org/10.5281/zenodo.19662544">Download the archive</a>
+        <a class="pint-button pint-button-secondary" href="https://doi.org/10.5281/zenodo.19885239">Download the archive</a>
       </div>
     </div>
     <aside class="pint-snapshot" aria-label="Database snapshot">
@@ -38,7 +38,7 @@ hide:
       <h2>Citation</h2>
       <p>If you use PIntDB in your work, cite the archived release so others can access the same dataset.</p>
     </div>
-    <a class="pint-doi" href="https://doi.org/10.5281/zenodo.19662544">10.5281/zenodo.19885239</a>
+    <a class="pint-doi" href="https://doi.org/10.5281/zenodo.19885239">10.5281/zenodo.19885239</a>
   </section>
 </div>
 
