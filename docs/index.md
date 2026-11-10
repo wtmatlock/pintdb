@@ -6,9 +6,9 @@ Currently, PIntDB holds 8,854 complete and 3,576 partial integrons, alongside 28
 
 ## Get started
 
-- [Search plasmids and gene annotations](quickstart.md) in the interactive tables.
-- [Explore the archive](tutorial.md) and examples for analysing the data.
-- [Read the workflow](workflow.md) and annotation methods.
+- [Search plasmids and gene annotations in the interactive tables.](quickstart.md)
+- [Explore examples for analysing the data.](tutorial.md)
+- [Understand the bioinformatics workflow.](workflow.md)
 
 ## Download and citation
 
