@@ -1,8 +1,8 @@
 # PIntDB (v. 1.0.0)
 
-The **plasmid-borne integron database (PIntDB)** brings together integron and insertion-sequence annotations from plasmid sequences. We are built on [PLSDB](https://ccb-microbe.cs.uni-saarland.de/plsdb2025/).
+The **plasmid-borne integron database (PIntDB)** brings together integron and insertion sequence annotations from plasmid sequences. We are built on [PLSDB](https://ccb-microbe.cs.uni-saarland.de/plsdb2025/).
 
-Currently, PIntDB holds 8,854 complete integrons and 3,576 partial integrons.
+Currently, PIntDB holds 8,854 complete and 3,576 partial integrons, alongside 282,795 complete and 149,305 fragmented insertion sequences.
 
 ## Get started
 
